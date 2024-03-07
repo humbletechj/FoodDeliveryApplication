@@ -1,4 +1,6 @@
 # Foody App
+Source: https://github.com/bilgecakar/FoodOrderAppIOS
+Thank you!
 
 <p><strong>You can login with this email and password!
   <br/>Email : example@outlook.com
