@@ -11,7 +11,7 @@
 - [x] Web services
 - [x] Navigation
 - [x] Tabbar navigation
-- [x] [Alamafire](https://github.com/Alamofire/Alamofire)
+- [x] [Alamofire](https://github.com/Alamofire/Alamofire)
 - [x] [Firebase Authentication](https://firebase.google.com/)
 - [x] [Kingfisher](https://github.com/onevcat/Kingfisher)
 - [x] Localization (Turkish / English - UK)
